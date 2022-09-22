@@ -6,6 +6,8 @@ public class Studente {
 	private String codiceFiscale;
 	private String nome;
 	private String cognome;
+	
+	
 	public int getId() {
 		return id;
 	}
