@@ -7,5 +7,9 @@ public class App {
 		System.out.println("Hello world");
 
 	}
+	
+	private static void metodo1() {
+		
+	}
 
 }
